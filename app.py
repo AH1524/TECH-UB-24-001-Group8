@@ -1,0 +1,9 @@
+
+name1 = "Mariam"
+name2 = ""
+name3 = ""
+name4 = ""
+name5 = ""
+
+
+print(f"Hello, World! Our group members are: [{name1}, {name2}, {name3}, {name4}, {name5}]")
